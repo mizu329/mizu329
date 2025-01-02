@@ -2,10 +2,10 @@
 
 ## My Profile
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Miii&show_icons=true&theme=gruvbox)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Miii&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Miii&theme=gruvbox)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Miii&show_icons=true&count_private=true)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Miii)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Miii)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Miii&layout=compact)
 
 ## tool
 
@@ -21,3 +21,4 @@
 
 ## Editor
 [![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
+
