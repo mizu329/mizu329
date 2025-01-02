@@ -9,7 +9,7 @@
 
 ## tool
 
-[![My Skills](https://skillicons.dev/icons?i=figma,ai,ps,js,php)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,ai,ps,js,xd)](https://skillicons.dev)
 
 ## Languages
 
@@ -17,7 +17,7 @@
 
 ## Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs,nodejs,laravel,wordpress,mysql,docker,aws,vercel,netlify,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,wordpress,mysql)](https://skillicons.dev)
 
 ## Editor
 [![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
