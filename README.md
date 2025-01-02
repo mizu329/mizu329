@@ -1,6 +1,6 @@
 ## Hi 👋 Welcome to my Github！ 👋
 
-# My Profile
+## My Profile
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Miii&show_icons=true&theme=gruvbox)
 
