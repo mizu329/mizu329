@@ -7,7 +7,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Miii)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Miii&layout=compact)
 
-## design
+## Design
 
 [![My Skills](https://skillicons.dev/icons?i=figma,ai,ps,xd)](https://skillicons.dev)
 
