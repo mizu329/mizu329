@@ -9,7 +9,7 @@
 
 ## tool
 
-[![My Skills](https://skillicons.dev/icons?i=figma,ai,ps,js,xd)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,ai,ps,xd)](https://skillicons.dev)
 
 ## Languages
 
