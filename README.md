@@ -1,16 +1,23 @@
 ## Hi 👋 Welcome to my Github！ 👋
 
-<!--
-**mizu329/mizu329** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# My Profile
 
-Here are some ideas to get you started:
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Miii&show_icons=true&theme=gruvbox)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Miii&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Miii&theme=gruvbox)
+
+## tool
+
+[![My Skills](https://skillicons.dev/icons?i=figma,ai,ps,js,php)](https://skillicons.dev)
+
+## Languages
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,scss,js,php)](https://skillicons.dev)
+
+## Technologies
+
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs,nodejs,laravel,wordpress,mysql,docker,aws,vercel,netlify,figma)](https://skillicons.dev)
+
+## Editor
+[![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
