@@ -17,7 +17,7 @@
 
 ## Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,wordpress,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,wordpress,mysql,angular)](https://skillicons.dev)
 
 ## Editor
 [![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
